@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About this blog"
----
 
 This site was created to help you learn Jekyll, and is a companion of the [lynda.com](http://www.lynda.com) course **Jekyll for Web Designers**. While this blog has many posts detailing Jekyll and its components, it's not designed to be a step-by-step tutorial for using Jekyll. For that, check out the lynda.com course. The main repo for this site contains the blog and the exercise files for the course. 
 
