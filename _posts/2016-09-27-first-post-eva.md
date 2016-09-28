@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first REALLY quick post"
+title:  "The first really QUICK post"
 date:   2016-09-27
 tags:  [random]
 ---
