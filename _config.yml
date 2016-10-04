@@ -5,7 +5,7 @@ description: "Companion blog to the lynda.com course, Jekyll for Web Designers.
   This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference  for those that are new to Jekyll."
 baseurl: "/jekyll-for-designers-lynda" 
 url: "http://tonatiuh8.github.io/jekyll-for-designers-lynda" 
-tagline: "The place where I'll rant and divulge my shenanigans"
+tagline: "No tagling to see if git catches it"
 
 
 # Build Settings
