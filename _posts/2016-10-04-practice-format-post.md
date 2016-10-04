@@ -52,6 +52,5 @@ A link that sends you to [Jobtrain](http://www.jobtrain.com "jobtrain.com"). And
 And of course we can forget referecing a link so I'll add a link to [Jekyll][1] home page as well as there [Doc][2].
 
 [1]: https://jekyllrb.com/ "jekyll"
-[2]: https://jekyllrb.com/docs/home/ "Jekyll Document"
+[2]: https://jekyllrb.com/docs/home/ "Jekyll Document
 
-And for grand finally lets add a picture of a cute ***Puppies*** ![Puppy]({{site.baseurl}}/images/puppies.jpg)
