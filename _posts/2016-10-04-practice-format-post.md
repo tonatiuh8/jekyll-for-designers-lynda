@@ -36,17 +36,16 @@ And here is where all have the 3 types of list I learned in the Lynda course.
 	* Gut health
 	* Sleep
 	* Body movement
-
-	#Description list
+    #Description list
 	
-		## Biology
-		: One of the subjects that I want to focus on in the coming months. It is a subject that I really enjoy learning so I am gonna get on those Khan Academy course and run throught them like Bo did against the Boz.
+    ## Biology
+        : One of the subjects that I want to focus on in the coming months. It is a subject that I really enjoy learning so I am gonna get on those Khan Academy course and run throught them like Bo did against the Boz.
 		
-		## Cyber Security
-		: I'll keep and eye out and I'll also check out the Khan Academies videos on it. Its a subject that interest me just need to do more research to figure out if I would like pursue it further
+    ## Cyber Security
+        : I'll keep and eye out and I'll also check out the Khan Academies videos on it. Its a subject that interest me just need to do more research to figure out if I would like pursue it further
 		
-		## Cooking
-		: I am all about that "Gordon Ramsey" life. It's been way to long since I've prep anything properly so a intense refresher is needed. Then step up to grocery shopping like a boss, cooking like Julia child gave birth to me, and hosting  like Lord Walder in the red wedding except with out the bloody bits.	
+    ## Cooking
+        : I am all about that "Gordon Ramsey" life. It's been way to long since I've prep anything properly so a intense refresher is needed. Then step up to grocery shopping like a boss, cooking like Julia child gave birth to me, and hosting  like Lord Walder in the red wedding except with out the bloody bits.	
 		
 A link that sends you to [Jobtrain](http://www.jobtrain.com "jobtrain.com"). And how about also a link to [My Blog]({{site.baseurl}}/index.html "TonaBoy Blog").
 
